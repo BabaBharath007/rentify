@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
                             </div>
                             <div class="mt-3 h6"> 
                                 <i class='bx bxs-school'><span> Schools: ${property.school} KM</span></i>
-                                <i class='bx bxs-graduation' ><span> Collage: ${property.collage} KM</span></i>
+                                <i class='bx bxs-graduation' ><span> Collage: ${property.college} KM</span></i>
                                 <i class='bx bx-plus-medical' ><span> Hospital: ${property.hospital} KM</span></i>
                             </div>
                              <h2 class="text-primary font-weight-bold mt-3">₹${property.price}</h2>
